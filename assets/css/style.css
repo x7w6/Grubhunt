@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins';
+    padding: 0 !important;
+}
+
+.form-control-success {
+    background-color: #72f199;
+}
+
+.card:hover {
+    border:2px solid #72f199;
+}
+
+a:hover {
+    text-decoration: none;
+}
